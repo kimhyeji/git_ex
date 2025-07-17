@@ -1,13 +1,5 @@
 # git_ex
-- dd
-- ff
-- ee
-- wwasd
-- dd
-- dd
-- dd
 - 11
-- 11
-- 11
-- adf
-- asdf
+- 22
+- 222
+- 
