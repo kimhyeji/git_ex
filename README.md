@@ -1,9 +1,4 @@
 # git_ex
-- dd
-- ff
-- ee
-- wwasd
-- dd
-- dd
-- dd
+- 11
+- 22
 - 
